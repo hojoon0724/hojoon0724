@@ -23,6 +23,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 
 ### Dev stuff
 
+<div style="display: flex; flex-wrap: wrap">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/vscode.svg' alt="" >
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/html5.svg' alt="html">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/css3.svg' alt="">
@@ -39,9 +40,11 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/python.svg' alt="">
 <img src='./assets/icons/sqlite.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
 <img src='./assets/icons/squarespace.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
+</div>
 
 ### Media stuff
 
+<div style="display: flex; flex-wrap: wrap">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/finalcutpro.png' alt="adobe premiere">
 <img src='./assets/icons/motion.png' alt="adobe premiere" style="padding: 1px; width:43px; height: 43px">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeaftereffects.svg' alt="adobe after effects">
@@ -50,3 +53,4 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeindesign.svg' alt="adobe indesign">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobephotoshop.svg' alt="adobe photoshop">
 <img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobepremiere.svg' alt="adobe premiere">
+</div>
