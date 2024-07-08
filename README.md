@@ -24,20 +24,20 @@ I come from an academic research background at UCLA where I earned my PhD for my
 ### Dev stuff
 
 <div style="display: flex; flex-wrap: wrap">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/vscode.svg' alt="" >
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/html5.svg' alt="html">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/css3.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/github.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/javascript.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/swift.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/vscode.svg' alt="" >
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/html5.svg' alt="html">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/css3.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/github.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/javascript.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/swift.svg' alt="">
 <img src='./assets/icons/xcode.png' alt="" style="padding: 0px; width:45px; height: 45px">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/testflight.png' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/react.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/tailwind.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/typescript.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/testflight.png' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/react.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/tailwind.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/typescript.svg' alt="">
 <img src='./assets/icons/django.svg' alt="" style="background-color: white;width: 35px; height: 35px; padding: 5px">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/mongodb.svg' alt="">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/python.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/mongodb.svg' alt="">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/python.svg' alt="">
 <img src='./assets/icons/sqlite.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
 <img src='./assets/icons/squarespace.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
 </div>
@@ -45,12 +45,12 @@ I come from an academic research background at UCLA where I earned my PhD for my
 ### Media stuff
 
 <div style="display: flex; flex-wrap: wrap">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/finalcutpro.png' alt="adobe premiere">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/finalcutpro.png' alt="adobe premiere">
 <img src='./assets/icons/motion.png' alt="adobe premiere" style="padding: 1px; width:43px; height: 43px">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeaftereffects.svg' alt="adobe after effects">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeillustrator.svg' alt="adobe illustrator">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobelightroom.svg' alt="adobe lightroom">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeindesign.svg' alt="adobe indesign">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobephotoshop.svg' alt="adobe photoshop">
-<img style="width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobepremiere.svg' alt="adobe premiere">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeaftereffects.svg' alt="adobe after effects">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeillustrator.svg' alt="adobe illustrator">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobelightroom.svg' alt="adobe lightroom">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeindesign.svg' alt="adobe indesign">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobephotoshop.svg' alt="adobe photoshop">
+<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobepremiere.svg' alt="adobe premiere">
 </div>
