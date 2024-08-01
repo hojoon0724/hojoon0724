@@ -1,10 +1,7 @@
-<intro-top style="font-size: 2.5rem; display: block; margin: 0; line-height: 1; font-weight: 100">
-Hello! I'm Hojoon
-</intro-top>
-<intro-sub style="font-size: 1.2rem; display: block; margin-bottom: 1rem; font-weight: 500">
-I'm a design-centered developer
-</intro-sub>
-<br>
+# Hello! I'm Hojoon
+
+## I'm a design-centered developer
+
 <p>
 I’m a software engineer and a multi-disciplinary media consultant with a passion for exploring and questioning why things are the way they are.
 </p>
