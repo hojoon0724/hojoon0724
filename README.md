@@ -14,36 +14,67 @@ I come from an academic research background at UCLA where I earned my PhD for my
 
 ## The stuff I use to make stuff and things
 
-### Dev stuff
+#### Languages
 
 <div style="display: flex; flex-wrap: wrap">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/vscode.svg' alt="" >
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/html5.svg' alt="html">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/css3.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/github.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/javascript.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/swift.svg' alt="">
-<img src='./assets/icons/xcode.png' alt="" style="padding: 0px; width:45px; height: 45px">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/testflight.png' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/react.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/tailwind.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/typescript.svg' alt="">
-<img src='./assets/icons/django.svg' alt="" style="background-color: white;width: 35px; height: 35px; padding: 5px">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/mongodb.svg' alt="">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/python.svg' alt="">
-<img src='./assets/icons/sqlite.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
-<img src='./assets/icons/squarespace.svg' alt="" style="background-color: white; width: 35px; height: 35px; padding: 5px">
+<img style=" width: 45px; height: 45px" src='./assets/icons/swift.png' alt="swift">
+<img style=" width: 45px; height: 45px" src='./assets/icons/javascript.png' alt="javascript">
+<img style=" width: 45px; height: 45px" src='./assets/icons/typescript.png' alt="typescript">
+<img style=" width: 45px; height: 45px" src='./assets/icons/python.png' alt="python">
 </div>
 
-### Media stuff
+#### Frontend
 
 <div style="display: flex; flex-wrap: wrap">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/finalcutpro.png' alt="adobe premiere">
-<img src='./assets/icons/motion.png' alt="adobe premiere" style="padding: 1px; width:43px; height: 43px">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeaftereffects.svg' alt="adobe after effects">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeillustrator.svg' alt="adobe illustrator">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobelightroom.svg' alt="adobe lightroom">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobeindesign.svg' alt="adobe indesign">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobephotoshop.svg' alt="adobe photoshop">
-<img style="padding: 5px; width: 35px; height: 35px; padding: 5px" src='./assets/icons/adobepremiere.svg' alt="adobe premiere">
+<img style=" width: 45px; height: 45px" src='./assets/icons/html5.png' alt="html5">
+<img style=" width: 45px; height: 45px" src='./assets/icons/css3.png' alt="css3">
+<img style=" width: 45px; height: 45px" src='./assets/icons/react.png' alt="react">
+<img style=" width: 45px; height: 45px" src='./assets/icons/tailwind.png' alt="tailwind">
+<img style=" width: 45px; height: 45px" src='./assets/icons/jquery.png' alt="jquery">
+</div>
+
+#### Backend
+
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 45px; height: 45px" src='./assets/icons/express.png' alt="express" >
+<img style=" width: 45px; height: 45px" src='./assets/icons/nodejs.png' alt="nodejs" >
+<img style=" width: 45px; height: 45px" src='./assets/icons/django.png' alt="django" >
+<img style=" width: 45px; height: 45px" src='./assets/icons/mongodb.png' alt="mongodb">
+<img style=" width: 45px; height: 45px" src='./assets/icons/jwt.png' alt="jwt">
+<img style=" width: 45px; height: 45px" src='./assets/icons/sqlite.png' alt="sqlite">
+</div>
+
+#### Design Stuff
+
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 45px; height: 45px" src='./assets/icons/finalcutpro.png' alt="finalcutpro">
+<img style=" width: 45px; height: 45px" src='./assets/icons/motion.png' alt="motion">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobeillustrator.png' alt="adobeillustrator">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobelightroom.png' alt="adobelightroom">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobeindesign.png' alt="adobeindesign">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobephotoshop.png' alt="adobephotoshop">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobepremiere.png' alt="adobepremiere">
+</div>
+
+#### Software
+
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 45px; height: 45px" src='./assets/icons/vscode.png' alt="vscode">
+<img style=" width: 45px; height: 45px" src='./assets/icons/github.png' alt="github">
+<img style=" width: 45px; height: 45px" src='./assets/icons/xcode.png' alt="xcode">
+<img style=" width: 45px; height: 45px" src='./assets/icons/testflight.png' alt="testflight">
+<img style=" width: 45px; height: 45px" src='./assets/icons/squarespace.png' alt="squarespace">
+</div>
+
+#### Usual Suspects
+
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 45px; height: 45px" src='./assets/icons/googledrive.png' alt="googledrive">
+<img style=" width: 45px; height: 45px" src='./assets/icons/googledocs.png' alt="googledocs">
+<img style=" width: 45px; height: 45px" src='./assets/icons/googlesheets.png' alt="googlesheets">
+<img style=" width: 45px; height: 45px" src='./assets/icons/msteams.png' alt="msteams">
+<img style=" width: 45px; height: 45px" src='./assets/icons/msword.png' alt="msworde">
+<img style=" width: 45px; height: 45px" src='./assets/icons/msexcel.png' alt="msexcel">
+<img style=" width: 45px; height: 45px" src='./assets/icons/slack.png' alt="slack">
 </div>
