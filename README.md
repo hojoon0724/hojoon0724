@@ -1,10 +1,3 @@
-<style>
-intro-top {font-size: 2.5rem; display: block; margin: 0; line-height: 1; font-weight: 100}
-intro-sub {font-size: 1.2rem; display: block; margin-bottom: 1rem; font-weight: 500}
-h1,h2,h3,h4 {border-bottom: 0px; margin-bottom: 2px}
-.icon {width: 35px; height: 35px; padding: 5px}
-</style>
-
 <intro-top style="font-size: 2.5rem; display: block; margin: 0; line-height: 1; font-weight: 100">
 Hello! I'm Hojoon
 </intro-top>
