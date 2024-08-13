@@ -26,6 +26,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/html5.png' alt="html5">
 <img style=" width: 45px; height: 45px" src='./assets/icons/css3.png' alt="css3">
 <img style=" width: 45px; height: 45px" src='./assets/icons/react.png' alt="react">
+<img style=" width: 45px; height: 45px" src='./assets/icons/nextjs.png' alt="nextjs">
 <img style=" width: 45px; height: 45px" src='./assets/icons/tailwind.png' alt="tailwind">
 <img style=" width: 45px; height: 45px" src='./assets/icons/jquery.png' alt="jquery">
 </div>
@@ -41,16 +42,16 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/sqlite.png' alt="sqlite">
 </div>
 
-#### Design Stuff
+#### Media & Design
 
 <div style="display: flex; flex-wrap: wrap">
 <img style=" width: 45px; height: 45px" src='./assets/icons/finalcutpro.png' alt="finalcutpro">
 <img style=" width: 45px; height: 45px" src='./assets/icons/motion.png' alt="motion">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobeillustrator.png' alt="adobeillustrator">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobelightroom.png' alt="adobelightroom">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobeindesign.png' alt="adobeindesign">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobephotoshop.png' alt="adobephotoshop">
+<img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobepremiere.png' alt="adobepremiere">
 </div>
 
