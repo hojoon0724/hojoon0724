@@ -14,7 +14,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 #### Languages
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/swift.png' alt="swift">
+<img style=" width: 45px; height: 45px; pointer-events: none;" src='./assets/icons/swift.png' alt="swift">
 <img style=" width: 45px; height: 45px" src='./assets/icons/javascript.png' alt="javascript">
 <img style=" width: 45px; height: 45px" src='./assets/icons/typescript.png' alt="typescript">
 <img style=" width: 45px; height: 45px" src='./assets/icons/python.png' alt="python">
@@ -40,6 +40,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/mongodb.png' alt="mongodb">
 <img style=" width: 45px; height: 45px" src='./assets/icons/jwt.png' alt="jwt">
 <img style=" width: 45px; height: 45px" src='./assets/icons/sqlite.png' alt="sqlite">
+<img style=" width: 45px; height: 45px" src='./assets/icons/mysql.png' alt="mysql">
 </div>
 
 #### Media & Design
@@ -53,6 +54,10 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobephotoshop.png' alt="adobephotoshop">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobepremiere.png' alt="adobepremiere">
+<img style=" width: 45px; height: 45px" src='./assets/icons/sketch.png' alt="sketch">
+<img style=" width: 45px; height: 45px" src='./assets/icons/grandma3.png' alt="grandma3">
+<img style=" width: 45px; height: 45px" src='./assets/icons/quickq.png' alt="quickq">
+<img style=" width: 45px; height: 45px" src='./assets/icons/qlab.png' alt="qlab">
 </div>
 
 #### Software
@@ -62,6 +67,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/github.png' alt="github">
 <img style=" width: 45px; height: 45px" src='./assets/icons/xcode.png' alt="xcode">
 <img style=" width: 45px; height: 45px" src='./assets/icons/testflight.png' alt="testflight">
+<img style=" width: 45px; height: 45px" src='./assets/icons/notion.png' alt="notion">
 <img style=" width: 45px; height: 45px" src='./assets/icons/squarespace.png' alt="squarespace">
 </div>
 
