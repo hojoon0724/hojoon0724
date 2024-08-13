@@ -14,7 +14,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 #### Languages
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px; pointer-events: none;" src='./assets/icons/swift.png' alt="swift">
+<img style=" width: 45px; height: 45px" src='./assets/icons/swift.png' alt="swift">
 <img style=" width: 45px; height: 45px" src='./assets/icons/javascript.png' alt="javascript">
 <img style=" width: 45px; height: 45px" src='./assets/icons/typescript.png' alt="typescript">
 <img style=" width: 45px; height: 45px" src='./assets/icons/python.png' alt="python">
@@ -77,8 +77,8 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/googledrive.png' alt="googledrive">
 <img style=" width: 45px; height: 45px" src='./assets/icons/googledocs.png' alt="googledocs">
 <img style=" width: 45px; height: 45px" src='./assets/icons/googlesheets.png' alt="googlesheets">
+<img style=" width: 45px; height: 45px" src='./assets/icons/slack.png' alt="slack">
 <img style=" width: 45px; height: 45px" src='./assets/icons/msteams.png' alt="msteams">
 <img style=" width: 45px; height: 45px" src='./assets/icons/msword.png' alt="msworde">
 <img style=" width: 45px; height: 45px" src='./assets/icons/msexcel.png' alt="msexcel">
-<img style=" width: 45px; height: 45px" src='./assets/icons/slack.png' alt="slack">
 </div>
