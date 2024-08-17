@@ -55,6 +55,7 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
 <img style=" width: 45px; height: 45px" src='./assets/icons/adobepremiere.png' alt="adobepremiere">
 <img style=" width: 45px; height: 45px" src='./assets/icons/sketch.png' alt="sketch">
+<img style=" width: 45px; height: 45px" src='./assets/icons/figma.png' alt="figma">
 <img style=" width: 45px; height: 45px" src='./assets/icons/grandma3.png' alt="grandma3">
 <img style=" width: 45px; height: 45px" src='./assets/icons/quickq.png' alt="quickq">
 <img style=" width: 45px; height: 45px" src='./assets/icons/qlab.png' alt="qlab">
