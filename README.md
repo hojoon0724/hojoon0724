@@ -3,10 +3,9 @@
 ## I'm a design-centered developer
 
 <p>
-I’m a software engineer and a multi-disciplinary media consultant with a passion for exploring and questioning why things are the way they are.
-</p>
-<p>
-I come from an academic research background at UCLA where I earned my PhD for my dissertation discussing the effect of mixed media to audiences.
+Software engineer and multi-disciplinary media consultant.
+Director of Brand and Product at MOindi, designing and building the product with the CTO, shaping strategy with the CEO and COO.
+PhD from UCLA, studying the effects of mixed media on audiences.
 </p>
 
 ## The stuff I use to make stuff and things
@@ -96,6 +95,6 @@ I come from an academic research background at UCLA where I earned my PhD for my
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_slack.webp' alt="slack">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_msteams.webp' alt="msteams">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_jira.webp' alt="jira">
-<img style=" width: 46px; height: 46px" src='./assets/icons/icons_msword.webp' alt="msworde">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_msword.webp' alt="msword">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_msexcel.webp' alt="msexcel">
 </div>
