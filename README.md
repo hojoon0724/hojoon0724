@@ -14,72 +14,88 @@ I come from an academic research background at UCLA where I earned my PhD for my
 #### Languages
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/swift.png' alt="swift">
-<img style=" width: 45px; height: 45px" src='./assets/icons/javascript.png' alt="javascript">
-<img style=" width: 45px; height: 45px" src='./assets/icons/typescript.png' alt="typescript">
-<img style=" width: 45px; height: 45px" src='./assets/icons/python.png' alt="python">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_typescript.webp' alt="typescript">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_javascript.webp' alt="javascript">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_python.webp' alt="python">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_swift.webp' alt="swift">
 </div>
 
-#### Frontend
+#### Frontend & Web
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/html5.png' alt="html5">
-<img style=" width: 45px; height: 45px" src='./assets/icons/css3.png' alt="css3">
-<img style=" width: 45px; height: 45px" src='./assets/icons/react.png' alt="react">
-<img style=" width: 45px; height: 45px" src='./assets/icons/nextjs.png' alt="nextjs">
-<img style=" width: 45px; height: 45px" src='./assets/icons/tailwind.png' alt="tailwind">
-<img style=" width: 45px; height: 45px" src='./assets/icons/jquery.png' alt="jquery">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_html5.webp' alt="html5">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_css3.webp' alt="css3">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_sass.webp' alt="sass">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_react.webp' alt="react">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_nextjs.webp' alt="nextjs">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_angular.webp' alt="angular">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_jquery.webp' alt="jquery">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_tailwind.webp' alt="tailwind">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_swiftui.webp' alt="swiftui">
 </div>
 
 #### Backend
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/express.png' alt="express" >
-<img style=" width: 45px; height: 45px" src='./assets/icons/nodejs.png' alt="nodejs" >
-<img style=" width: 45px; height: 45px" src='./assets/icons/django.png' alt="django" >
-<img style=" width: 45px; height: 45px" src='./assets/icons/mongodb.png' alt="mongodb">
-<img style=" width: 45px; height: 45px" src='./assets/icons/jwt.png' alt="jwt">
-<img style=" width: 45px; height: 45px" src='./assets/icons/sqlite.png' alt="sqlite">
-<img style=" width: 45px; height: 45px" src='./assets/icons/mysql.png' alt="mysql">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_nodejs.webp' alt="nodejs" >
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_express.webp' alt="express" >
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_django.webp' alt="django" >
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_jwt.webp' alt="jwt">
 </div>
 
-#### Media & Design
-
+### Database & Content
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/finalcutpro.png' alt="finalcutpro">
-<img style=" width: 45px; height: 45px" src='./assets/icons/motion.png' alt="motion">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobeillustrator.png' alt="adobeillustrator">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobelightroom.png' alt="adobelightroom">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobeindesign.png' alt="adobeindesign">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobephotoshop.png' alt="adobephotoshop">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobeaftereffects.png' alt="adobeaftereffects">
-<img style=" width: 45px; height: 45px" src='./assets/icons/adobepremiere.png' alt="adobepremiere">
-<img style=" width: 45px; height: 45px" src='./assets/icons/sketch.png' alt="sketch">
-<img style=" width: 45px; height: 45px" src='./assets/icons/figma.png' alt="figma">
-<img style=" width: 45px; height: 45px" src='./assets/icons/grandma3.png' alt="grandma3">
-<img style=" width: 45px; height: 45px" src='./assets/icons/quickq.png' alt="quickq">
-<img style=" width: 45px; height: 45px" src='./assets/icons/qlab.png' alt="qlab">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_mongodb.webp' alt="mongodb">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_mysql.webp' alt="mysql">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_sqlite.webp' alt="sqlite">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_swiftdata.webp' alt="swiftdata">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_sanity.webp' alt="sanity">
 </div>
 
-#### Software
+#### Design
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_figma.webp' alt="figma">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_sketch.webp' alt="sketch">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobeillustrator.webp' alt="adobeillustrator">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobephotoshop.webp' alt="adobephotoshop">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobeindesign.webp' alt="adobeindesign">
+</div>
+
+#### Media
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/vscode.png' alt="vscode">
-<img style=" width: 45px; height: 45px" src='./assets/icons/github.png' alt="github">
-<img style=" width: 45px; height: 45px" src='./assets/icons/xcode.png' alt="xcode">
-<img style=" width: 45px; height: 45px" src='./assets/icons/testflight.png' alt="testflight">
-<img style=" width: 45px; height: 45px" src='./assets/icons/notion.png' alt="notion">
-<img style=" width: 45px; height: 45px" src='./assets/icons/squarespace.png' alt="squarespace">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_finalcutpro.webp' alt="finalcutpro">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobepremiere.webp' alt="adobepremiere">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobeaftereffects.webp' alt="adobeaftereffects">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_motion.webp' alt="motion">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_adobelightroom.webp' alt="adobelightroom">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_grandma3.webp' alt="grandma3">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_lightkey.webp' alt="lightkey">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_quickq.webp' alt="quickq">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_qlab.webp' alt="qlab">
+</div>
+
+#### Dev Tools
+
+<div style="display: flex; flex-wrap: wrap">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_vscode.webp' alt="vscode">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_github.webp' alt="github">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_xcode.webp' alt="xcode">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_testflight.webp' alt="testflight">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_vercel.webp' alt="vercel">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_notion.webp' alt="notion">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_squarespace.webp' alt="squarespace">
 </div>
 
 #### Usual Suspects
 
 <div style="display: flex; flex-wrap: wrap">
-<img style=" width: 45px; height: 45px" src='./assets/icons/googledrive.png' alt="googledrive">
-<img style=" width: 45px; height: 45px" src='./assets/icons/googledocs.png' alt="googledocs">
-<img style=" width: 45px; height: 45px" src='./assets/icons/googlesheets.png' alt="googlesheets">
-<img style=" width: 45px; height: 45px" src='./assets/icons/slack.png' alt="slack">
-<img style=" width: 45px; height: 45px" src='./assets/icons/msteams.png' alt="msteams">
-<img style=" width: 45px; height: 45px" src='./assets/icons/msword.png' alt="msworde">
-<img style=" width: 45px; height: 45px" src='./assets/icons/msexcel.png' alt="msexcel">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_googledrive.webp' alt="googledrive">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_googledocs.webp' alt="googledocs">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_googlesheets.webp' alt="googlesheets">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_slack.webp' alt="slack">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_msteams.webp' alt="msteams">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_jira.webp' alt="jira">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_msword.webp' alt="msworde">
+<img style=" width: 46px; height: 46px" src='./assets/icons/icons_msexcel.webp' alt="msexcel">
 </div>
