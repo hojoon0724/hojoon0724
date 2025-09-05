@@ -4,7 +4,11 @@
 
 <p>
 Software engineer and multi-disciplinary media consultant.
+</p>
+<p>
 Director of Brand and Product at MOindi, designing and building the product with the CTO, shaping strategy with the CEO and COO.
+</p>
+<p>
 PhD from UCLA, studying the effects of mixed media on audiences.
 </p>
 
@@ -43,6 +47,7 @@ PhD from UCLA, studying the effects of mixed media on audiences.
 </div>
 
 ### Database & Content
+
 <div style="display: flex; flex-wrap: wrap">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_mongodb.webp' alt="mongodb">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_mysql.webp' alt="mysql">
@@ -52,6 +57,7 @@ PhD from UCLA, studying the effects of mixed media on audiences.
 </div>
 
 #### Design
+
 <div style="display: flex; flex-wrap: wrap">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_figma.webp' alt="figma">
 <img style=" width: 46px; height: 46px" src='./assets/icons/icons_sketch.webp' alt="sketch">
