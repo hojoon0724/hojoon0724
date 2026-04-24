@@ -51,6 +51,7 @@ Global kid (Seoul → Buenos Aires → LA → NYC → LA again). PhD from UCLA, 
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_nodejs.webp" alt="Node.js">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_express.webp" alt="Express">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_django.webp" alt="Django">
+  <img style="width: 46px; height: 46px;" src="./assets/icons/icons_stripe.webp" alt="Stripe">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_jwt.webp" alt="JWT">
 </div>
 
@@ -94,12 +95,12 @@ Global kid (Seoul → Buenos Aires → LA → NYC → LA again). PhD from UCLA, 
 #### Usual Suspects
 
 <div style="display: flex; flex-wrap: wrap;">
+  <img style="width: 46px; height: 46px;" src="./assets/icons/icons_jira.webp" alt="Jira">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_googledrive.webp" alt="Google Drive">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_googledocs.webp" alt="Google Docs">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_googlesheets.webp" alt="Google Sheets">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_slack.webp" alt="Slack">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_msteams.webp" alt="MS Teams">
-  <img style="width: 46px; height: 46px;" src="./assets/icons/icons_jira.webp" alt="Jira">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_msword.webp" alt="MS Word">
   <img style="width: 46px; height: 46px;" src="./assets/icons/icons_msexcel.webp" alt="MS Excel">
 </div>
